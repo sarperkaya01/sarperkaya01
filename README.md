@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarper Kaya aka...</h1>
-<h3 align="center">A obsessed developer for DIY anything</h3>
+<h3 align="center">An obsessed developer for DIY anything</h3>
 
 - 🌱 I’m currently learning **Java and SpringBoot**
 
